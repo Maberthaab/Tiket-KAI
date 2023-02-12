@@ -1,0 +1,19 @@
+==========================================================
+		 Bukti Pembayaran Tiket Kereta Api
+==========================================================
+ Atas nama      : TATA
+ Nomer Identitas: 89779
+ Nama Kereta    : Medan
+ Keberangkatan  : jam 08.30
+ Kelas Kereta   : Eksekutif
+ Nomor Bangku   : 2
+ Tanggal        : 4
+ Tujuan         : PASAR KEMBANG
+ Tiket untuk
+ 	1. Dewasa	: 1 tiket
+ 	2. Anak-anak	: 0 tiket
+
+ Harga satuan
+  Dewasa	: Rp25000
+  Anak-anak	: Rp12500
+ Jadi total pembayaran anda adalah Rp 25000
